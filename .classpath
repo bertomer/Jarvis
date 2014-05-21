@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="acoustic-models"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="sphinx4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Tygz/Desktop/tartichouette/sphinx4-1.0beta6/lib/js.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tygz/Desktop/tartichouette/sphinx4-1.0beta6/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tygz/Desktop/tartichouette/sphinx4-1.0beta6/src/jsapi2/org.jvoicexml.jsapi2.jse.sphinx4/3rdparty/sphinx4/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tygz/Desktop/tartichouette/sphinx4-1.0beta6/src/jsapi2/org.jvoicexml.jsapi2.jse.sphinx4/3rdparty/sphinx4/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
